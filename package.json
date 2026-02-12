@@ -1,0 +1,7 @@
+{
+  "name": "bot-wa-simple",
+  "type": "module",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.6.0"
+  }
+}
