@@ -1,5 +1,5 @@
 export default {
-  owner: ['628xxxxxxxxx'], // ganti nomor kamu
+  owner: ['6285755085745'], // ganti nomor kamu
   prefix: '.',
   botName: 'BotSimple'
 }
