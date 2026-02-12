@@ -1,6 +1,38 @@
 {
-  "name": "bot-wa-simple",
+  "name": "rj-esm",
+  "version": "13.0.0",
+  "description": "BOT Whatsapp",
+  "main": "index.js",
   "type": "module",
+  "directories": {
+    "lib": "lib",
+    "src": "src",
+    "plugins": "plugins"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "dev": "nodemon --experimental-specifier-resolution=node index.js"
+  },
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp",
+    "Games-wabot",
+    "wabot-aq",
+    "multi-device",
+    "MD",
+    "baileys-md"
+  ],
+  "homepage": "https://github.com/Rj-Basalamah/Assistanz",
+  "author": {
+    "name": "RJ-Basalamah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rj-Basalamah/Assistanz.git"
+  },
   "dependencies": {
     "@adiwajshing/baileys": "^6.6.0"
   }
